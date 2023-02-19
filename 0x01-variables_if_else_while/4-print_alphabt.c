@@ -1,5 +1,7 @@
+#include <stdio.h>
+
 /**
- * main - a program that writes the alphabet in lowercase except
+ * main - A program that prints the alphabet
  *
  * Return: always 0
  */
